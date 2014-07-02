@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman.Test", "Pacman.Test\Pacman.Test.csproj", "{8882B40A-DC7D-4338-AAC5-9AC031C0956B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman", "Pacman\Pacman.csproj", "{A2DFDB81-DD11-4F60-A475-1380BA312205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8882B40A-DC7D-4338-AAC5-9AC031C0956B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8882B40A-DC7D-4338-AAC5-9AC031C0956B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8882B40A-DC7D-4338-AAC5-9AC031C0956B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8882B40A-DC7D-4338-AAC5-9AC031C0956B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DFDB81-DD11-4F60-A475-1380BA312205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DFDB81-DD11-4F60-A475-1380BA312205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DFDB81-DD11-4F60-A475-1380BA312205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DFDB81-DD11-4F60-A475-1380BA312205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

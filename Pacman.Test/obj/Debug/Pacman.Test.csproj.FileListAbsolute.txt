@@ -1,0 +1,11 @@
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\Pacman.Test.dll
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\Pacman.Test.pdb
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\NFluent.dll
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\nunit.framework.dll
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\NFluent.xml
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\nunit.framework.xml
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\obj\Debug\Pacman.Test.csprojResolveAssemblyReference.cache
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\obj\Debug\Pacman.Test.dll
+c:\users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\obj\Debug\Pacman.Test.pdb
+C:\Users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\Pacman.dll
+C:\Users\florinb\documents\visual studio 2012\Projects\Pacman\Pacman.Test\bin\Debug\Pacman.pdb
